@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "value": "all"
+    },
+    {
+      "value": "action"
+    },
+    {
+      "value": "comedy"
+    },
+    {
+      "value": "drama"
+    },
+    {
+      "value": "horror"
+    },
+    {
+      "value": "romance"
+    },
+    {
+      "value": "thriller"
+    }
+  ]
+}
