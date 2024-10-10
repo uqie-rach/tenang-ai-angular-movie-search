@@ -12,7 +12,7 @@ import {
 })
 export class MovieService {
   private apikey = '670d0a5a';
-  private apiUrl = `http://www.omdbapi.com/?apikey=${this.apikey}`;
+  private apiUrl = `https://www.omdbapi.com/?apikey=${this.apikey}`;
 
   constructor(private http: HttpClient) {}
 
